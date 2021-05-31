@@ -1,4 +1,4 @@
-//import page object
+//import page object const PageName = require('../path to object')
 
 describe("Name of the tested objectives", () => {
 
@@ -7,6 +7,8 @@ describe("Name of the tested objectives", () => {
 
     beforeEach( () => {
     
+        
+
     })
     
     afterEach( () => {
